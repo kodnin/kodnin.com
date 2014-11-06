@@ -1,0 +1,27 @@
+.container {
+  margin: 125px auto;
+  width: 450px;
+}
+
+p {
+  font-family: 'Lora', serif;
+  font-size: 1.25em;
+  letter-spacing: 0.0125em;
+  line-height: 1.75em;
+  text-align: justify;
+  text-indent: 2.5em;
+  word-spacing: 0.05em;
+}
+
+p a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+p em {
+  font-style: italic;
+}
+
+p strong {
+  font-weight: 700;
+}
