@@ -1,5 +1,6 @@
 require 'sinatra'
+require 'rdiscount'
 
 get '*' do
-  erb :index
+  erb :layout, locals: { content: markdown(:index) }
 end
