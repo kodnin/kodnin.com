@@ -1,25 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Halant:300);
+
+.container, a {
+  color: #333;
+}
+
 .container {
-  margin: 125px auto;
-  width: 425px;
+  font-family: 'Halant', serif;
+  font-weight: 300;
+  margin-left: 50px;
 }
 
 p {
-  font-family: 'Lora', serif;
-  font-size: 1.2em;
-  line-height: 1.85em;
-  text-align: justify;
-  text-indent: 1.5em;
-}
-
-p a {
-  color: #4183C4;
-  text-decoration: none;
-}
-
-p em {
+  font-size: 1.5em;
   font-style: italic;
+  margin: 50px 0 15px 0;
 }
 
-p strong {
-  font-weight: 700;
+ul li {
+  display: inline;
+  margin-right: 3px;
+}
+
+ul li a {
+  border-bottom: 1px dotted;
+  font-size: 2em;
+  text-decoration: none;
 }

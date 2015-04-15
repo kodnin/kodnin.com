@@ -1,1 +1,27 @@
-Hello, I'm **David** (28), *working* as **kodnin** and actively **looking** *for* a *challenging* **job**. The past two years I *wrote* **software** as a [backend developer](http://www.inspire.nl) using *versatile* **technologies** like [Ruby](https://www.ruby-lang.org), [Rails](http://rubyonrails.org), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [CoffeeScript](http://coffeescript.org), [Node.js](http://nodejs.org), [PostgreSQL](http://www.postgresql.org) and [MongoDB](http://www.mongodb.org). Now I'm *intrigued by* **functional programming**. I'm a *passionate* **learner** and **open source** *enthusiast*, I *enjoy* **coaching** at [Rails Girls](http://railsgirls.com) and *value* **practices** like *testing* and *version control*. **Read** *my* [blog](http://kodnin.github.io) or **follow** *me* on [GitHub](https://github.com/kodnin) and [Twitter](https://twitter.com/kodnin). **Contact** *me* via [LinkedIn](http://www.linkedin.com/pub/david-boot/96/528/ba0) or [kodnin@gmail.com](mailto:kodnin@gmail.com).
+operating as
+
+- [kodnin](http://kodnin.com)
+- •
+- [david boot](http://davidboot.com)
+
+
+
+coding with
+
+- [ruby](https://www.ruby-lang.org)
+- •
+- [clojure](http://clojure.org)
+- •
+- [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+
+hiding at
+
+- [email](mailto:kodnin@gmail.com)
+- •
+- [blog](http://kodnin.github.io)
+- •
+- [github](https://github.com/kodnin)
+- •
+- [twitter](https://twitter.com/kodnin)
